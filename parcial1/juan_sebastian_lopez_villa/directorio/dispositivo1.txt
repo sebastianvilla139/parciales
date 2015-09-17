@@ -1,0 +1,6 @@
+nombre=Circuito detector de sombra
+descripcion=Detecta la diferencia de iluminación que recibe y envía un aviso sonoro y auditivo.
+transis=30
+resis=40
+capac=50
+induc=70

@@ -1,0 +1,4 @@
+transis=3
+resis=4
+capac=5
+induc=7

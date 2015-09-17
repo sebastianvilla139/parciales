@@ -1,0 +1,6 @@
+nombre=Indicador de temperatura
+descripcion=Informa en forma visual el estado de una temperatura que se desea vigilar.
+transis=30
+resis=40
+capac=50
+induc=70

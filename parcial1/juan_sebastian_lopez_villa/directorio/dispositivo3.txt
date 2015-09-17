@@ -1,0 +1,6 @@
+nombre=Amplificador de potencia (8 watts)
+descripcion=Amplificador operacional configurado como no inversor, cuya ganancia de voltaje es 11, disipa una potencia máxima de 8 watts y alcanza a consumir un amperio de corriente.
+transis=30
+resis=40
+capac=50
+induc=70

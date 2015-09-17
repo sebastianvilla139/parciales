@@ -1,0 +1,7 @@
+nombreCircuito detector de sombra
+descripcion=
+descripcion=
+transis=asdf
+resis=123
+capac=123aa
+induc=-123

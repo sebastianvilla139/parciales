@@ -1,0 +1,6 @@
+nombre=Metrónomo electrónico
+descripcion=Este metrónomo electrónico permite a aquellas personas que estudian o son aficionados a la música, llevar el compás de la misma con bastante exactitud.
+transis=30
+resis=40
+capac=50
+induc=70

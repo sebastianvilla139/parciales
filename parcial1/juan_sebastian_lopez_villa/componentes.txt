@@ -1,0 +1,4 @@
+transis
+resis
+capac
+induc
